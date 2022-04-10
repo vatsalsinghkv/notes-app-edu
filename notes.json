@@ -1,0 +1,11 @@
+[
+	{
+		"title": "First Note",
+		"body": "I am build with Node.js and I love JavaScript.\nI hate python alot.\nAnd I hate Riya more than anything."
+	},
+	{
+		"title": "Good Morning",
+		"body": "Good Morning everyone, have a nice day.\nI would love to have a girlfriend.\nAnd to have a great Sex."
+	},
+	{ "title": "Good", "body": "Good Morning everyone, have a nice day." }
+]
